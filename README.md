@@ -1,2 +1,3 @@
 # Java_Learning_Path
-This repository has all the step-by-step resources which I have used to teach myself Java.
+
+1. [Difference between Java vs Python vs C++](https://www.geeksforgeeks.org/c-vs-java-vs-python/)
