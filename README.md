@@ -7,3 +7,4 @@
 #### Below are the resource list (or roadmap), which I have used to teach myself this fantastic language :)
 
 1. [Difference between Java vs Python vs C++](https://www.geeksforgeeks.org/c-vs-java-vs-python/)
+2. [JDK in Java](https://www.geeksforgeeks.org/jdk-in-java/)
