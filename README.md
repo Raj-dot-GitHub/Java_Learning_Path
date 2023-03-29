@@ -1,7 +1,7 @@
 # **Java_Learning_Path**
 
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1rHTm74RkQj2xRJVRLYGsd9-CEz1UPKF0/view?usp=share_link" width="500" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gcreddy.com%2F2022%2F06%2Fjava-tutorial.html&psig=AOvVaw2rfB6IPHVuJchIm50deSZG&ust=1680150614517000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOD0lfamgP4CFQAAAAAdAAAAABAJ" width="500" height="300"/>
 </div>
 <br></br>
 
