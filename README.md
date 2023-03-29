@@ -15,3 +15,4 @@
 5. [Byte Code vs Machine Code](https://www.geeksforgeeks.org/difference-between-byte-code-and-machine-code/)
 6. [Java Datatypes](https://www.geeksforgeeks.org/data-types-in-java/)
 7. [Java Identifiers](https://www.geeksforgeeks.org/java-identifiers/)
+8. [Variable Scope in Java](https://www.geeksforgeeks.org/variable-scope-in-java/)
