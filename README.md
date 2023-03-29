@@ -1,5 +1,10 @@
 # **Java_Learning_Path**
 
+<div id="header" align="center">
+  <img src="https://drive.google.com/file/d/1rHTm74RkQj2xRJVRLYGsd9-CEz1UPKF0/view?usp=share_link" width="500" height="300"/>
+</div>
+<br></br>
+
 > Java is one of the most popular languages used for software development.
 > It is an object-oriented language.
 >  Java is not purely object oriented, since it supports working with primitive datatypes like int, float, char, etc.
