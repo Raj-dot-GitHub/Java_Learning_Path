@@ -11,3 +11,4 @@
 3. *JVM Architecture* [Blog](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/) / [Video](https://www.youtube.com/watch?v=dncpVFP1JeQ)
 4. [JDK vs JRE vs JVM](https://www.geeksforgeeks.org/differences-jdk-jre-jvm/)
 5. [Byte Code vs Machine Code](https://www.geeksforgeeks.org/difference-between-byte-code-and-machine-code/)
+6. [Java Datatypes](https://www.geeksforgeeks.org/data-types-in-java/)
