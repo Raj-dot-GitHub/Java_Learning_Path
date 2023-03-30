@@ -16,3 +16,4 @@
 6. [Java Datatypes](https://www.geeksforgeeks.org/data-types-in-java/)
 7. [Java Identifiers](https://www.geeksforgeeks.org/java-identifiers/)
 8. [Variable Scope in Java](https://www.geeksforgeeks.org/variable-scope-in-java/)
+9. *Wrapper Classes* [Blog](https://www.geeksforgeeks.org/wrapper-classes-java/) or [Video](https://www.youtube.com/watch?v=Fyc86kVIePE)
