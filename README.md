@@ -8,6 +8,8 @@
 
 ## Java Basics:-
 
+### Basics:
+
 1. [Difference between Java vs Python vs C++](https://www.geeksforgeeks.org/c-vs-java-vs-python/)
 2. [JDK in Java](https://www.geeksforgeeks.org/jdk-in-java/)
 3. *JVM Architecture* [Blog](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/) / [Video](https://www.youtube.com/watch?v=dncpVFP1JeQ)
@@ -17,3 +19,7 @@
 7. [Java Identifiers](https://www.geeksforgeeks.org/java-identifiers/)
 8. [Variable Scope in Java](https://www.geeksforgeeks.org/variable-scope-in-java/)
 9. *Wrapper Classes* [Blog](https://www.geeksforgeeks.org/wrapper-classes-java/) or [Video](https://www.youtube.com/watch?v=Fyc86kVIePE)
+
+### I/O stream in Java:
+
+1. [Taking Inputs in Java](https://www.geeksforgeeks.org/how-to-take-input-from-user-in-java/)
