@@ -1,25 +1,16 @@
-# **Java_Learning_Path**
+# **What I learned in Java?**
 
-> Java is one of the most popular languages used for software development.
-> It is an object-oriented language.
->  Java is not purely object oriented, since it supports working with primitive datatypes like int, float, char, etc.
+### **Date :- 18-06-2024**
+Course :- Java Masterclass on Udemy (Section 7)
 
-#### Below are the resource list (or roadmap), which I have used to teach myself this fantastic language :)
-
-## Java Basics:-
-
-### Basics:
-
-1. [Difference between Java vs Python vs C++](https://www.geeksforgeeks.org/c-vs-java-vs-python/)
-2. [JDK in Java](https://www.geeksforgeeks.org/jdk-in-java/)
-3. *JVM Architecture* [Blog](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/) / [Video](https://www.youtube.com/watch?v=dncpVFP1JeQ)
-4. [JDK vs JRE vs JVM](https://www.geeksforgeeks.org/differences-jdk-jre-jvm/)
-5. [Byte Code vs Machine Code](https://www.geeksforgeeks.org/difference-between-byte-code-and-machine-code/)
-6. [Java Datatypes](https://www.geeksforgeeks.org/data-types-in-java/)
-7. [Java Identifiers](https://www.geeksforgeeks.org/java-identifiers/)
-8. [Variable Scope in Java](https://www.geeksforgeeks.org/variable-scope-in-java/)
-9. *Wrapper Classes* [Blog](https://www.geeksforgeeks.org/wrapper-classes-java/) or [Video](https://www.youtube.com/watch?v=Fyc86kVIePE)
-
-### I/O stream in Java:
-
-1. [Taking Inputs in Java](https://www.geeksforgeeks.org/how-to-take-input-from-user-in-java/)
+- Classes & Objects
+- Encapsulation
+- Private instance variable and public methods
+- Need of setter and getters (validation)
+- static variables cannot be used inside non-static methods
+- Constructors (default & parameterized)
+- Constructors don't have a return type and their name is same as that of the class name
+- If not declared explicitly, java create a default constructor during conversion of source code to byte code
+- Constructor Overloading
+- Constructor Chaining
+- In Constructor chaining, the second constructor called inside first constructor needs to be the first statement inside the first  constructor.
